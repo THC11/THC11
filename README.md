@@ -1,10 +1,7 @@
 @thc11 
-    <Head> 
-        <H1>Soy amateur en el arte de lenguajes de programación.
-
-Me gustaría compartir ideas y conocimientos para poder crear algo grande único y diverso.
-
-                   <H1> <head/>
+<Head><H1>Soy amateur en el arte de lenguajes de programación.
+ Me gustaría compartir ideas y conocimientos para poder crear algo grande único y diverso.
+<H1> <head/>
  
 
  $crear un código para vulneral las cuenta Xiaomi Mui13 Android 12.5.
